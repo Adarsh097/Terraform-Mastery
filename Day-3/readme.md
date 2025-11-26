@@ -3,11 +3,11 @@
 
 ![alt text](image.png)
 
-terraform -help
-terraform init -upgrade
-terraform plan
-terraform apply (to apply the changes)
-terraform apply --auto-approve (to automatically approve the creating of resources)
+- terraform -help
+- terraform init -upgrade
+- terraform plan
+- terraform apply (to apply the changes)
+- terraform apply --auto-approve (to automatically approve the creating of resources)
 
 
 # README: Terraform – Authentication, VPC Provisioning, and S3 Bucket Management
