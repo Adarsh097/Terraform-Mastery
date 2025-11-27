@@ -256,4 +256,12 @@ S3 bucket names must be globally unique.
 Requires **Terraform 1.10+** for S3 native locking
 (1.11+ recommended)
 
+# s3-bucket versioning
+aws s3api put-bucket-versioning \
+  --bucket adarsh-terraform-state-bucket \
+  --versioning-configuration Status=Enabled
+
+- terraform init -reconfigure
+- aws s3api get-bucket-versioning --bucket bucketName
+- aws s3api get-bucket-encryption --bucket bucketName
 
