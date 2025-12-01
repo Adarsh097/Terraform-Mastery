@@ -2,8 +2,11 @@
 
 - Meta Arguments are provided by Terraform to suport the arguments and to implement the logic easily.
 
+## Tasks - Completed
+
 ![alt text](image-2.png)
 ![alt text](image-1.png)
+
 ![alt text](image.png)
 
 1. depends_on -> establishes the relationship between multiple resouces.It is used to write the explicit dependency between the resouces i.e. Resouce-A should be created before Resource-B. 
