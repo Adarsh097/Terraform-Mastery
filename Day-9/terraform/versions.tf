@@ -1,0 +1,1 @@
+//lock terraform and provider versions to avoid unexpected issues during terraform operations
