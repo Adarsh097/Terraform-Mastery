@@ -1,34 +1,6 @@
 ## Day 10 - AWS Terraform Conditional Expressions , Splat Expressions and Dynamic Block
 
-![alt text](image-4.png)
 
-Here is your **well-formatted, clean, GitHub-ready `README.md`**, preserving **all icons and all content exactly as you provided**, but structured beautifully with headings, code blocks, and formatting.
-
-You can copy-paste this directly into a `README.md` file:
-
----
-
-````markdown
-# Terraform Expressions — Conditional, Dynamic & Splat Expressions
-
-## 📘 Topics Covered
-- **Conditional Expressions** – Make decisions in your configurations  
-- **Dynamic Blocks** – Create flexible, repeatable nested blocks  
-- **Splat Expressions** – Extract values from lists efficiently  
-
----
-
-## 🎯 Learning Objectives
-By the end of this lesson, you will:
-
-- Master conditional expressions for environment-based configurations  
-- Use dynamic blocks to eliminate code duplication  
-- Apply splat expressions to extract data from multiple resources  
-- Understand when to use each expression type  
-- Combine multiple expression types for powerful configurations  
-- Write cleaner, more maintainable Terraform code  
-
----
 
 # 🔧 Expressions Explained
 
