@@ -32,3 +32,15 @@ resource "aws_s3_bucket" "bucket2" {
     bucket = local.bucket_name
   
 }
+
+
+/*
+Assignment 4: Security Group Rules from Ports ⭐⭐⭐
+*/
+// see the locals.tf for implementation
+
+/*
+Assignment 5: Instance Size Selection ⭐⭐⭐
+Dynamically select instance size based on environment
+*/
+// see the locals.tf for implementation
