@@ -1,0 +1,18 @@
+first_name,last_name,department,job_title,email,phone
+Michael,Scott,Education,Regional Manager,michael.scott@dundermifflin.com,9000000001
+Pam,Beesly,Education,Receptionist,pam.beesly@dundermifflin.com,9000000002
+Erin,Hannon,Education,Receptionist,erin.hannon@dundermifflin.com,9000000003
+Toby,Flenderson,Education,HR Representative,toby.flenderson@dundermifflin.com,9000000004
+Holly,Flax,Education,HR Representative,holly.flax@dundermifflin.com,9000000005
+
+Robert,California,Managers,CEO,robert.california@dundermifflin.com,9000000011
+David,Wallace,Managers,CFO,david.wallace@dundermifflin.com,9000000012
+Jan,Levinson,Managers,Vice President of Sales,jan.levinson@dundermifflin.com,9000000013
+Charles,Miner,Managers,Vice President,charles.miner@dundermifflin.com,9000000014
+Jo,Bennett,Managers,CEO of Sabre,jo.bennett@dundermifflin.com,9000000015
+
+Dwight,Schrute,Engineering,Automation Engineer,dwight.schrute@dundermifflin.com,9000000021
+Jim,Halpert,Engineering,Software Engineer,jim.halpert@dundermifflin.com,9000000022
+Ryan,Howard,Engineering,Junior Engineer,ryan.howard@dundermifflin.com,9000000023
+Gabe,Lewis,Engineering,Platform Engineer,gabe.lewis@dundermifflin.com,9000000024
+Clark,Green,Engineering,DevOps Engineer,clark.green@dundermifflin.com,9000000025
