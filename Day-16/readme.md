@@ -1,10 +1,7 @@
 ## Day-16 | AWS IAM User Management with Terraform - Mini Project
+![alt text](<Screenshot from 2025-12-14 19-13-36.png>)
 
-![alt text](image-5.png)
-
-![alt text](image-6.png)
-
-
+![alt text](<Screenshot from 2025-12-14 19-18-07.png>)
 ## Overview
 
 This project demonstrates how to manage **AWS IAM users, groups, and group memberships using Terraform**, with a **CSV file as the single source of truth**.
